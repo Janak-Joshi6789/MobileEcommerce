@@ -1,0 +1,19 @@
+/* styles.css */
+table {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    width: 80%; /* Adjust the width as needed */
+    border-spacing: 8px; /* Add space between columns */
+    border: 2px solid #333; /* Blackish border */
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}

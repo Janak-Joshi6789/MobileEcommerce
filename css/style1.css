@@ -1,0 +1,76 @@
+
+
+
+.contactUs{
+    background-color:#6d6b6b;
+    height: 433px;
+}
+.text-center{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+.form{
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(249, 249, 246);
+}
+.form-input{
+    margin:8px 0px;
+    padding:5px;
+    width: 50%;
+    font-size: 19px;
+    border:2px rgb(91, 91, 100);
+    border-radius: 6px;
+    border-style: groove;
+}
+.form-input::placeholder{
+    color: rgb(124, 120, 129);
+}
+.button-dark{
+    width:8%;
+    height: 30px;
+    margin-top: 10px;
+    border: 3px rgb(98, 98, 113);
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: grey;
+    border-color: rgb(77, 77, 88);
+    border-style: groove;
+    margin-bottom: 15px;
+
+}
+.button-dark:hover{
+    color: rgb(227, 157, 157);
+    background-color: rgb(96, 96, 114);
+}
+
+.callus{
+    height: 550px;
+}
+.headcall{
+    padding: 60px;
+}
+.headcall p{
+    color: rgb(140, 128, 140);
+}
+.headcall h1{
+    font-size: 60px;
+    padding-top: 20px;
+    color: rgb(70, 70, 91);
+}
+.call{
+    display: flex;
+
+}
+.call h2{
+    padding-top: 60px;
+    padding-left: 100px;
+    color: rgb(79, 79, 87);
+
+}
+.call p{
+    padding-left: 100px;
+    color: rgb(147, 130, 147);
+}
+
