@@ -52,10 +52,10 @@
 <script>
         var config = {
             // replace the publicKey with yours
-            "publicKey": "test_public_key_ba37a78b0df143b1b38b8f089e48b32e",
+            "publicKey": "",
             "productIdentity": "1234567890",
             "productName": "Dragon",
-            "productUrl": "https://www.khec.edu.np/",
+            "productUrl": "",
             "paymentPreference": [
                 "KHALTI",
                 "CONNECT_IPS",
